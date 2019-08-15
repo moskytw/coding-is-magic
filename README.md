@@ -1,1 +1,1 @@
-The slides are https://speakerdeck.com/mosky/coding-is-magic-2018 .
+The notebooks here support the talk, [Coding Is Magic](https://speakerdeck.com/mosky/coding-is-magic). You can find part of the examples here.
